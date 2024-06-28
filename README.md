@@ -10,8 +10,10 @@
  - [Crash Course on Python](https://coursera.org/share/ef834e9151aa46b3ac2c606c2c44b9b5)
 
 
+<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="Yashwanth K | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 
-
+[Discord]: https://discordapp.com/users/Yashwanss/
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
