@@ -9,12 +9,12 @@
 
  - [Crash Course on Python](https://coursera.org/share/ef834e9151aa46b3ac2c606c2c44b9b5)
 
-<h2>📺 Popular YouTube Videos</h2>
 
 
 
 
 <!--
+<h2>📺 Popular YouTube Videos</h2>
 Here are some ideas to get you started:
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
