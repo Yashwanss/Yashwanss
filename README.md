@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [2D-GravitySimulation]((https://github.com/Yashwanss/2D-GravitySimulator))
+  - [2D-GravitySimulation](https://github.com/Yashwanss/2D-GravitySimulator)
 
 <h2>🎓 Certifications</h2>
 
