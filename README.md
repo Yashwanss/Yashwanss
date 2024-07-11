@@ -8,7 +8,7 @@
 <h2>🎓 Certifications</h2>
 
  - [Crash Course on Python](https://coursera.org/share/ef834e9151aa46b3ac2c606c2c44b9b5)
-
+ - [Learn Python by making games](https://www.udemy.com/certificate/UC-69fab876-252e-481c-8f52-8cb326fb1df9/)
 
 <h2> 🤳 Connect with me:</h2>
 
