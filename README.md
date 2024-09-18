@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [2D-GravitySimulation](https://github.com/Yashwanss/2D-GravitySimulator)
+  - [SAM](https://github.com/Yashwanss/2D-GravitySimulator)
 
 <h2>🎓 Certifications</h2>
 
