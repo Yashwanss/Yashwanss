@@ -5,6 +5,7 @@
 
  - [Crash Course on Python](https://coursera.org/share/ef834e9151aa46b3ac2c606c2c44b9b5)
  - [Learn Python by making games](https://www.udemy.com/certificate/UC-69fab876-252e-481c-8f52-8cb326fb1df9/)
+ - [ISRO]([https://www.udemy.com/certificate/UC-69fab876-252e-481c-8f52-8cb326fb1df9/](https://certificate.iirs.gov.in/checkstatus.php?uid=23223bdef83a4883d0d3a1792bba1926&enm=20241472511918))
 
 <h2> 🤳 Connect with me:</h2>
 
