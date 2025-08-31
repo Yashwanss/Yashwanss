@@ -10,6 +10,31 @@
 
 -->
 
+<!--
+<h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanss&show_icons=true&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanss&theme=dark&hide_border=true" height="180" />
+</p>
+ 
+</h2>
+ <--
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanss&theme=dark&layout=compact&hide_border=true" height="180" />
+</p>
+-->
+
+<!--
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gautham-here/gautham-here/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</p>
+-->
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Yashwanth K | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
