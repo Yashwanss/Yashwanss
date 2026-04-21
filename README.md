@@ -1,40 +1,5 @@
 <h1>Hi, I'm K Yashwanth <br/><a href="https://github.com/Yashwanss">Programmer</a>
 
-<!--
-
-<h2>🎓 Certifications</h2>
-
- - [Crash Course on Python](https://coursera.org/share/ef834e9151aa46b3ac2c606c2c44b9b5)
- - [Learn Python by making games](https://www.udemy.com/certificate/UC-69fab876-252e-481c-8f52-8cb326fb1df9/)
- - [ISRO]((https://certificate.iirs.gov.in/checkstatus.php?uid=23223bdef83a4883d0d3a1792bba1926&enm=20241472511918))
-
--->
-
-<!--
-<h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanss&show_icons=true&theme=dark&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanss&theme=dark&hide_border=true" height="180" />
-</p>
- 
-</h2>
- <--
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanss&theme=dark&layout=compact&hide_border=true" height="180" />
-</p>
--->
-
-<!--
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gautham-here/gautham-here/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-</p>
--->
-
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Yashwanth K | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
