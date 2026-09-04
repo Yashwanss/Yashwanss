@@ -1,4 +1,4 @@
-<h1>Hi, I'm K Yashwanth <br/><a href="https://github.com/Yashwanss">Programmer</a></h1>
+fun stuff
 
 <h2> 🤳 Connect with me:</h2>
 
